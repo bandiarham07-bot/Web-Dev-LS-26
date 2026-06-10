@@ -1,4 +1,4 @@
-# Gradient Descent & Backpropagation
+# Version Control System with Git and GitHub
 
 [Home](../../README.md) > [Week 1](../README.md) > Version Control System with Git and GitHub
 
