@@ -23,7 +23,7 @@ JAVASCRIPT
     v
 Python for Web Dev
     |
-    |  Python syntax and OOPS basic for future topics
+    |  Python syntax and OOP basic for future topics
     v
 Week 2
 ```
