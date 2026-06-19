@@ -31,7 +31,7 @@ Designing with Figma Make helps you prototype the design(UI/UX) you have thought
 
 **Watch :**
 - [Intro to Figma Make](https://www.youtube.com/watch?v=9Y2Yz-ir3JM) - Best for understanding how figma make works
-- [Prototyping using Figma Make](https://www.youtube.com/watch?v=Nks2Yj68sSI) - Website Prototyping
+- [Prototyping using Figma Make](https://www.youtube.com/watch?v=Nks2Yj68sSI) - Website Prototyping (till 23:00)
 
 ---
 [Previous: React](../01-React/README.md) | [Week 2 Overview](../README.md) | [Next: Assignment](../03-Assignment/README.md)
