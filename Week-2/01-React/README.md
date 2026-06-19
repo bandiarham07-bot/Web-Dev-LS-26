@@ -2,7 +2,7 @@
 
 [Home](../../README.md) > [Week 2](../README.md) > React
 
-> Week 2 · Topic 1 of 3 · Prerequisites: [Javascript](../../Week-1/03-HTML-CSS-JS/README.md)
+> Week 2 · Topic 1 of 2 · Prerequisites: [Javascript](../../Week-1/03-HTML-CSS-JS/README.md)
 
 ---
 
