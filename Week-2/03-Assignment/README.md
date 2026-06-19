@@ -24,6 +24,13 @@ Welcome to your Week 2 assignment for the WnCC Full Stack Web Development LS! Th
 > **Note:** Base functional completion does not award passing grades, **Innovation will be heavily graded**. Consider adding smart features like interactive micro-animations (Framer Motion), item filtering/search, persistent storage (`localStorage`), dummy checkout modal states, or unique UI theme toggles to stand out. We will judge you on your **creativity, design choice and features** you can think of.
 
 ---
+### Figma Make
+
+When you are done prototyping with Figma Make you can connect your github account and can create a repository on your Github Account for further feature additions
+
+Use this Resource for connecting Figma Make to GitHub - [Link](https://help.figma.com/hc/en-us/articles/35463818346647-Push-from-Figma-Make-to-GitHub)
+
+---
 
 ## Expected Repository File Structure
 
