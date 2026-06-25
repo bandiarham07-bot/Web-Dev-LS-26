@@ -19,6 +19,7 @@ This repo is your single source of truth - study material, code examples, and as
 |------|--------|
 | [Week 1](./Week-1/README.md) |Coding Basics(HTML/Javascript/Python)|
 | [Week 2](./Week-2/README.md) |Frontend with React|
+| [Week 3](./Week-3/README.md) |Backend with Django and Databasing with PostgreSQL|
 
 
 ---
