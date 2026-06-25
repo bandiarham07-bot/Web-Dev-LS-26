@@ -47,4 +47,12 @@ Users hate filling out registration forms. "Login with Google" removes that fric
 
 ---
 
-[Previous: Django REST Framework](../04-REST-APIs/README.md) | [Week 3 Overview](../README.md) | [Next: Connecting React to Django](../06-Connecting-React-Django/README.md)
+## Extra Resources
+
+- Now that you are done with both the fronetend and the backend part of Web Development you can start building locally run [Full Stack projects](https://www.youtube.com/watch?v=MYPKZmb2CAg). This is a 6 hour project tutorial covering all the topics we have learnt till now and will help you in connecting React with Django. 
+
+- If you just want to learn how to connect your React App with Django read [this](https://www.geeksforgeeks.org/reactjs/integrating-django-with-reactjs-using-django-rest-framework/). It is a tutorial in the form of a very small project.
+
+---
+
+[Previous: Django REST Framework](../04-REST-APIs/README.md) | [Week 3 Overview](../README.md) | [Next: Assignment](../06-Assignment-3/README.md)
