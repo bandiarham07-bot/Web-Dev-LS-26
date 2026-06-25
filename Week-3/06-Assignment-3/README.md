@@ -36,7 +36,7 @@ Pick whichever story you like best
 
 ---
 
-## 📐 Required API Shape
+## Required API Shape
 
 So every submission can be tested the same way, your API **must** expose exactly the following endpoints:
 
@@ -77,7 +77,7 @@ No Docker, no extra services required to boot it (you're welcome to use caching 
 
 ---
 
-## 🌟 Bonus: Things We Didn't Explicitly Teach (Optional, High Creativity Credit)
+## Bonus (Optional, High Creativity Credit)
 
 These are not required, but attempting them — even partially or imperfectly — earns strong creativity points, since it shows you went looking for solutions beyond the lecture material:
 
@@ -88,7 +88,7 @@ We will specifically check whether a cache exists and whether it's correct (serv
 
 ---
 
-## 📦 What to Submit
+## What to Submit
 
 A **public GitHub repository** with the following structure:
 
