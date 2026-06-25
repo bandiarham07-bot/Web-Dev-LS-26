@@ -42,7 +42,7 @@ Connecting React to Django (CORS, Axios, the full-stack handshake)
 |---|-------|---------------------|-----------|
 | 1 | [Backend Foundations](./01-Backend-Foundations/README.md) | How the web/HTTPS actually works, client-server model, what a "backend" is | 2-3 hrs |
 | 2 | [Django Basics](./02-Django/README.md) | MTV architecture, project setup, models, admin, migrations | 5-6 hrs |
-| 3 | [PostgreSQL & the ORM](./03-PostgreSQL/README.md) | Relational databases, psql, connecting Django to Postgres | 4-5 hrs |
+| 3 | [PostgreSQL](./03-PostgreSQL/README.md) | Relational databases, psql, connecting Django to Postgres | 4-5 hrs |
 | 4 | [Django REST Framework](./04-REST-APIs/README.md) | What an API/REST is, serializers, ViewSets, building a real API | 5-6 hrs |
 | 5 | [Auth: JWT & OAuth](./05-Auth/README.md) | Stateless auth, SimpleJWT, "Login with Google" via OAuth | 3-4 hrs |
 | 6 | [Connecting React to Django](./06-Connecting-React-Django/README.md) | CORS, Axios, environment variables, the full request lifecycle | 3-4 hrs |
